@@ -1,0 +1,17 @@
+speedtest.net##.mobile-during-test-banner
+speedtest.net##.mobile-eot-banner
+klikindomaret.com##.desktop-xs.popupDownload
+ikotv.com##.hero-item
+ikotv.com##.banner
+ikotv.com##.video-container > p
+ikotv.com##.img-responsive
+mail.google.com###speedbump
+go.cbro.win^
+cfcdn.livesports.mobi^
+cfcdn.apcqwd.com^
+jalalive5.com##.show.danmus
+ppdd02.xiimadedishalthough.shop##.is-active.quiz-popup
+||jalalive5.com/img/tacsw_idn.47cfb4c5.png$image
+||accounts.google.com/gsi/*$xhr,script,3p
+mail.google.com##.ObxnS
+ikotv.com##.lazy
