@@ -1,5 +1,9 @@
-speedtest.net##.mobile-during-test-banner
-speedtest.net##.mobile-eot-banner
+snaptik.app###modal-vignette
+www.speedtest.net###onetrust-consent-sdk
+www.speedtest.net##.modal-in-place.modal.mobile-pretest-new
+www.speedtest.net###modal-overlay
+www.speedtest.net##.mobile-eot-banner
+www.speedtest.net##.mobile-during-test-banner
 klikindomaret.com##.desktop-xs.popupDownload
 ikotv.com##.hero-item
 ikotv.com##.banner
