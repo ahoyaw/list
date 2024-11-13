@@ -19,3 +19,7 @@ ppdd02.xiimadedishalthough.shop##.is-active.quiz-popup
 ||accounts.google.com/gsi/*$xhr,script,3p
 mail.google.com##.ObxnS
 ikotv.com##.lazy
+techrifle.com##.mfp-ready.site-access-popup.popup-animation.mfp-auto-cursor.mfp-wrap
+techrifle.com##.mfp-ready.site-access-popup.popup-animation.mfp-bg
+open.spotify.com##.encore-text-body-small-bold.iJUiBm.Button-sc-qlcn5g-0
+open.spotify.com##.encore-text-body-small-bold.heiitI.Button-sc-qlcn5g-0
