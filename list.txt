@@ -24,3 +24,7 @@ techrifle.com##.mfp-ready.site-access-popup.popup-animation.mfp-bg
 open.spotify.com##.encore-text-body-small-bold.iJUiBm.Button-sc-qlcn5g-0
 open.spotify.com##.encore-text-body-small-bold.heiitI.Button-sc-qlcn5g-0
 act.hoyolab.com##.mhy-hoyolab-app-header
+fdown.net##.col-md-4 > center
+fdown.net##.column.col-md-12 > center > [href]
+fdown.net##h1
+fdown.net##h2
