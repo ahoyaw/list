@@ -28,3 +28,8 @@ fdown.net##.col-md-4 > center
 fdown.net##.column.col-md-12 > center > [href]
 fdown.net##h1
 fdown.net##h2
+ssstik.io###ovr
+ssstik.io###overlayimage
+ssstik.io###twt_promo
+ssstik.io###direct_dl_link
+ssstik.io###hd_download
