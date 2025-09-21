@@ -1,3 +1,4 @@
+! Title: Ahoy List
 snaptik.app###modal-vignette
 act.hoyolab.com##.header__title-exploration-share
 ssstik.io###ad_main
