@@ -1,4 +1,6 @@
 snaptik.app###modal-vignette
+act.hoyolab.com##.header__title-exploration-share
+ssstik.io###ad_main
 www.speedtest.net###onetrust-consent-sdk
 www.speedtest.net##.modal-in-place.modal.mobile-pretest-new
 www.speedtest.net###modal-overlay
