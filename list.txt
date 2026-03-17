@@ -37,3 +37,12 @@ ssstik.io###twt_promo
 ssstik.io###direct_dl_link
 ssstik.io###hd_download
 cfcdn.xdapiym5297.com^
+snapsave.app##.ads-section.section
+snapsave.app##.dl-w_app.is-fullwidth.is-small.is-dark.button
+snapsave.app##.modal
+snapsave.app##tr.render:nth-of-type(2)
+snapsave.app##tr.render:nth-of-type(3)
+sora.chatgpt.com##.flex-col.flex.z-\[100\].top-0.right-0.left-0.fixed
+pindown.io##.ad-slot
+pindown.io##.modal
+pindown.io##.ads-section.section
