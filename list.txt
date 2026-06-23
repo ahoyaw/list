@@ -1,4 +1,5 @@
 ! Title: Ahoy List
+! Expires: 30 days
 snaptik.app###modal-vignette
 act.hoyolab.com##.header__title-exploration-share
 ssstik.io###ad_main
@@ -46,3 +47,9 @@ sora.chatgpt.com##.flex-col.flex.z-\[100\].top-0.right-0.left-0.fixed
 pindown.io##.ad-slot
 pindown.io##.modal
 pindown.io##.ads-section.section
+
+! Pinterest Login
+pinterest.*##[data-test-id="pin-closeup-image"]>[style="cursor: pointer; z-index: 1;"]
+pinterest.*##[data-test-id="fullPageSignupModal"],[data-test-id="giftWrap"]
+pinterest.*##[data-test-id="signup-modal-inspired"]:upward(1)
+pinterest.*##body:style(overflow: auto !important)
