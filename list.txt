@@ -58,5 +58,6 @@ pinterest.*##[data-test-id="signup-modal-inspired"]:upward(1)
 pinterest.*##body:style(overflow: auto !important)
 
 ! Reddit Age
+www.reddit.com##.configured-xpromo-modal.configured-xpromo.rpl-dialog
+www.reddit.com##body:style(overflow: auto !important;)
 www.reddit.com##div.prompt:has(slot[name="view-in-app-button"])
-www.reddit.com##div[id*="_xpromo_nsfw_blocking_"]
