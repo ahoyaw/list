@@ -1,55 +1,62 @@
 ! Title: Ahoy List
 ! Expires: 30 days
-snaptik.app###modal-vignette
 act.hoyolab.com##.header__title-exploration-share
-ssstik.io###ad_main
-www.speedtest.net###onetrust-consent-sdk
-www.speedtest.net##.modal-in-place.modal.mobile-pretest-new
-www.speedtest.net###modal-overlay
-www.speedtest.net##.mobile-eot-banner
-www.speedtest.net##.mobile-during-test-banner
-klikindomaret.com##.desktop-xs.popupDownload
-ikotv.com##.hero-item
-ikotv.com##.banner
-ikotv.com##.video-container > p
-ikotv.com##.img-responsive
-mail.google.com###speedbump
-go.cbro.win^
-cfcdn.livesports.mobi^
-cfcdn.apcqwd.com^
-jalalive5.com##.show.danmus
-ppdd02.xiimadedishalthough.shop##.is-active.quiz-popup
-||jalalive5.com/img/tacsw_idn.47cfb4c5.png$image
-||accounts.google.com/gsi/*$xhr,script,3p
-mail.google.com##.ObxnS
-ikotv.com##.lazy
-techrifle.com##.mfp-ready.site-access-popup.popup-animation.mfp-auto-cursor.mfp-wrap
-techrifle.com##.mfp-ready.site-access-popup.popup-animation.mfp-bg
-open.spotify.com##.encore-text-body-small-bold.iJUiBm.Button-sc-qlcn5g-0
-open.spotify.com##.encore-text-body-small-bold.heiitI.Button-sc-qlcn5g-0
 act.hoyolab.com##.mhy-hoyolab-app-header
+cfcdn.apcqwd.com^
+cfcdn.livesports.mobi^
+cfcdn.xdapiym5297.com^
 fdown.net##.col-md-4 > center
 fdown.net##.column.col-md-12 > center > [href]
 fdown.net##h1
 fdown.net##h2
-ssstik.io###ovr
-ssstik.io###overlayimage
-ssstik.io###twt_promo
-ssstik.io###direct_dl_link
-ssstik.io###hd_download
-cfcdn.xdapiym5297.com^
+go.cbro.win^
+ikotv.com##.banner
+ikotv.com##.hero-item
+ikotv.com##.img-responsive
+ikotv.com##.lazy
+ikotv.com##.video-container > p
+jalalive5.com##.show.danmus
+klikindomaret.com##.desktop-xs.popupDownload
+mail.google.com###speedbump
+mail.google.com##.ObxnS
+narto-drama.com##.player-subscribe-overlay
+open.spotify.com##.encore-text-body-small-bold.heiitI.Button-sc-qlcn5g-0
+open.spotify.com##.encore-text-body-small-bold.iJUiBm.Button-sc-qlcn5g-0
+pindown.io##.ad-slot
+pindown.io##.ads-section.section
+pindown.io##.modal
+ppdd02.xiimadedishalthough.shop##.is-active.quiz-popup
+snapsave.app###ad-slot-main
+snapsave.app###dlModal
 snapsave.app##.ads-section.section
 snapsave.app##.dl-w_app.is-fullwidth.is-small.is-dark.button
 snapsave.app##.modal
 snapsave.app##tr.render:nth-of-type(2)
 snapsave.app##tr.render:nth-of-type(3)
+snaptik.app###modal-vignette
 sora.chatgpt.com##.flex-col.flex.z-\[100\].top-0.right-0.left-0.fixed
-pindown.io##.ad-slot
-pindown.io##.modal
-pindown.io##.ads-section.section
+ssstik.io###ad_main
+ssstik.io###direct_dl_link
+ssstik.io###hd_download
+ssstik.io###overlayimage
+ssstik.io###ovr
+ssstik.io###twt_promo
+techrifle.com##.mfp-ready.site-access-popup.popup-animation.mfp-auto-cursor.mfp-wrap
+techrifle.com##.mfp-ready.site-access-popup.popup-animation.mfp-bg
+www.speedtest.net###modal-overlay
+www.speedtest.net###onetrust-consent-sdk
+www.speedtest.net##.mobile-during-test-banner
+www.speedtest.net##.mobile-eot-banner
+www.speedtest.net##.modal-in-place.modal.mobile-pretest-new
+||accounts.google.com/gsi/*$xhr,script,3p
+||jalalive5.com/img/tacsw_idn.47cfb4c5.png$image
 
 ! Pinterest Login
-pinterest.*##[data-test-id="pin-closeup-image"]>[style="cursor: pointer; z-index: 1;"]
 pinterest.*##[data-test-id="fullPageSignupModal"],[data-test-id="giftWrap"]
+pinterest.*##[data-test-id="pin-closeup-image"]>[style="cursor: pointer; z-index: 1;"]
 pinterest.*##[data-test-id="signup-modal-inspired"]:upward(1)
 pinterest.*##body:style(overflow: auto !important)
+
+! Reddit Age
+www.reddit.com##div.prompt:has(slot[name="view-in-app-button"])
+www.reddit.com##div[id*="_xpromo_nsfw_blocking_"]
