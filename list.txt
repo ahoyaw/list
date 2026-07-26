@@ -34,6 +34,8 @@ snapsave.app##.modal
 snapsave.app##tr.render:nth-of-type(2)
 snapsave.app##tr.render:nth-of-type(3)
 snaptik.app###modal-vignette
+snaptik.net###ad-content
+snaptik.net##.ads-slot-top
 sora.chatgpt.com##.flex-col.flex.z-\[100\].top-0.right-0.left-0.fixed
 ssstik.io###ad_main
 ssstik.io###direct_dl_link
