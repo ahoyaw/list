@@ -1,20 +1,24 @@
 ! Title: Ahoy List
 ! Expires: 30 days
 act.hoyolab.com##.header__title-exploration-share
+act.hoyolab.com##.hoyolab-app-header
 act.hoyolab.com##.mhy-hoyolab-app-header
+act.hoyolab.com##.mihoyo-cookie-tips--mobile.mihoyo-cookie-tips--bottom.mihoyo-cookie-tips
 cfcdn.apcqwd.com^
 cfcdn.livesports.mobi^
 cfcdn.xdapiym5297.com^
-fdown.net##.col-md-4 > center
-fdown.net##.column.col-md-12 > center > [href]
 fdown.net##h1
 fdown.net##h2
+fdown.net##.column.col-md-12 > center > [href]
+fdown.net##.col-md-4 > center
 go.cbro.win^
-ikotv.com##.banner
-ikotv.com##.hero-item
-ikotv.com##.img-responsive
-ikotv.com##.lazy
-ikotv.com##.video-container > p
+ikotv.*##.banner
+ikotv.*##.hero-item
+ikotv.*##.h-full.w-full.relative
+ikotv.*##.img-responsive
+ikotv.*##.lazy
+ikotv.*##.video-container > p
+ikotv.*##[href] > [src]
 jalalive5.com##.show.danmus
 klikindomaret.com##.desktop-xs.popupDownload
 mail.google.com###speedbump
@@ -22,21 +26,20 @@ mail.google.com##.ObxnS
 narto-drama.com##.player-subscribe-overlay
 open.spotify.com##.encore-text-body-small-bold.heiitI.Button-sc-qlcn5g-0
 open.spotify.com##.encore-text-body-small-bold.iJUiBm.Button-sc-qlcn5g-0
-pindown.io##.ad-slot
 pindown.io##.ads-section.section
+pindown.io##.ad-slot
 pindown.io##.modal
 ppdd02.xiimadedishalthough.shop##.is-active.quiz-popup
+snapsave.app##tr.render:nth-of-type(2)
+snapsave.app##tr.render:nth-of-type(3)
 snapsave.app###ad-slot-main
 snapsave.app###dlModal
 snapsave.app##.ads-section.section
 snapsave.app##.dl-w_app.is-fullwidth.is-small.is-dark.button
 snapsave.app##.modal
-snapsave.app##tr.render:nth-of-type(2)
-snapsave.app##tr.render:nth-of-type(3)
 snaptik.app###modal-vignette
 snaptik.net###ad-content
 snaptik.net##.ads-slot-top
-sora.chatgpt.com##.flex-col.flex.z-\[100\].top-0.right-0.left-0.fixed
 ssstik.io###ad_main
 ssstik.io###direct_dl_link
 ssstik.io###hd_download
@@ -54,12 +57,12 @@ www.speedtest.net##.modal-in-place.modal.mobile-pretest-new
 ||jalalive5.com/img/tacsw_idn.47cfb4c5.png$image
 
 ! Pinterest Login
+pinterest.*##body:style
 pinterest.*##[data-test-id="fullPageSignupModal"],[data-test-id="giftWrap"]
 pinterest.*##[data-test-id="pin-closeup-image"]>[style="cursor: pointer; z-index: 1;"]
 pinterest.*##[data-test-id="signup-modal-inspired"]:upward(1)
-pinterest.*##body:style(overflow: auto !important)
 
 ! Reddit Age
-www.reddit.com##.configured-xpromo-modal.configured-xpromo.rpl-dialog
 www.reddit.com##body:style(overflow: auto !important;)
 www.reddit.com##div.prompt:has(slot[name="view-in-app-button"])
+www.reddit.com##.configured-xpromo-modal.configured-xpromo.rpl-dialog
