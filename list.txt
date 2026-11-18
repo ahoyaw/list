@@ -48,11 +48,6 @@ ssstik.io###ovr
 ssstik.io###twt_promo
 techrifle.com##.mfp-ready.site-access-popup.popup-animation.mfp-auto-cursor.mfp-wrap
 techrifle.com##.mfp-ready.site-access-popup.popup-animation.mfp-bg
-www.speedtest.net###modal-overlay
-www.speedtest.net###onetrust-consent-sdk
-www.speedtest.net##.mobile-during-test-banner
-www.speedtest.net##.mobile-eot-banner
-www.speedtest.net##.modal-in-place.modal.mobile-pretest-new
 ||accounts.google.com/gsi/*$xhr,script,3p
 ||jalalive5.com/img/tacsw_idn.47cfb4c5.png$image
 space.bilibili.com##.login-panel-popover
