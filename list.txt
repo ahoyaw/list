@@ -57,7 +57,6 @@ www.speedtest.net##.modal-in-place.modal.mobile-pretest-new
 ||jalalive5.com/img/tacsw_idn.47cfb4c5.png$image
 
 ! Pinterest Login
-pinterest.*##body:style
 pinterest.*##[data-test-id="fullPageSignupModal"],[data-test-id="giftWrap"]
 pinterest.*##[data-test-id="pin-closeup-image"]>[style="cursor: pointer; z-index: 1;"]
 pinterest.*##[data-test-id="signup-modal-inspired"]:upward(1)
