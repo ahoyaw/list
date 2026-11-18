@@ -55,7 +55,6 @@ www.speedtest.net##.mobile-eot-banner
 www.speedtest.net##.modal-in-place.modal.mobile-pretest-new
 ||accounts.google.com/gsi/*$xhr,script,3p
 ||jalalive5.com/img/tacsw_idn.47cfb4c5.png$image
-www.speedtest.net##.css-9ipgpq.MuiModal-root.\!z-\[3500\].MuiDialog-root
 space.bilibili.com##.login-panel-popover
 gemini.google.com##.ng-star-inserted.get-app-banner
 
