@@ -59,11 +59,6 @@ www.speedtest.net##.css-9ipgpq.MuiModal-root.\!z-\[3500\].MuiDialog-root
 space.bilibili.com##.login-panel-popover
 gemini.google.com##.ng-star-inserted.get-app-banner
 
-! Pinterest Login
-pinterest.*##[data-test-id="fullPageSignupModal"],[data-test-id="giftWrap"]
-pinterest.*##[data-test-id="pin-closeup-image"]>[style="cursor: pointer; z-index: 1;"]
-pinterest.*##[data-test-id="signup-modal-inspired"]:upward(1)
-
 ! Reddit Age
 www.reddit.com##body:style(overflow: auto !important;)
 www.reddit.com##div.prompt:has(slot[name="view-in-app-button"])
